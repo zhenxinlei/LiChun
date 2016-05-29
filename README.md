@@ -6,4 +6,5 @@ LiChun is a machine learning project for predicting financial assets value
 2. Scipy
 3. numpy
 4. pandas
-5. ...
+5. SciKit-learn
+6. ...
